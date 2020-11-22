@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchAndSort", "SearchAndSort\SearchAndSort.csproj", "{EED3418C-EE41-4867-9793-51102CB3375D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EED3418C-EE41-4867-9793-51102CB3375D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED3418C-EE41-4867-9793-51102CB3375D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED3418C-EE41-4867-9793-51102CB3375D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED3418C-EE41-4867-9793-51102CB3375D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31245BF1-F732-4B25-BB2A-308E63F1D3B6}
+	EndGlobalSection
+EndGlobal
